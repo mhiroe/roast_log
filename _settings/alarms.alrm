@@ -1,0 +1,43 @@
+{
+    "___COMMENT___": "アラーム設定の説明",
+    "___COMMENT_FLAGS___": "1: 有効,0: 無効",
+    "alarmflags": [1, 1, 1, 1, 1, 1, 1],
+
+    "___COMMENT_GUARDS___": "-1: ガードなし, 0以上: 指定インデックスのアラームが必要",
+    "alarmguards": [-1, -1, -1, -1, -1, -1, 5],
+
+    "___COMMENT_NEGGUARDS___": "-1: 無効化なし",
+    "alarmnegguards": [-1, -1, -1, -1, -1, -1, -1],
+
+    "___COMMENT_TIMES___": "9:ON, -1:START, 0:CHARGE, 2:FCs",
+    "alarmtimes": [9, 9, -1, -1, 2, 2, 2],
+
+    "___COMMENT_OFFSETS___": "アラーム間隔（秒）",
+    "alarmoffsets": [30, 0, 0, 0, 0, 0, 1200],
+
+    "___COMMENT_CONDS___": "0:以下, 1:以上",
+    "alarmconds": [1, 0, 1, 1, 1, 1, 1],
+
+    "___COMMENT_SOURCES___": "1:BT（豆温）",
+    "alarmsources": [1, 1, 1, 1, 1, 1, 1],
+
+    "___COMMENT_TEMPS___": "アラーム温度設定（℃）",
+    "alarmtemperatures": [220.0, 140.0, 155.0, 160.0, 180.0, 193.0, 0.0],
+
+    "___COMMENT_ACTIONS___": "0:標準, 3:DRYEND, 4:FCStart",
+    "alarmactions": [0, 0, 0, 3, 0, 4, 0],
+
+    "___COMMENT_BEEP___": "アラーム音: 1:有効",
+    "alarmbeep": [1, 1, 1, 1, 1, 1, 1],
+
+    "___COMMENT_STRINGS___": "アラームメッセージ設定",
+    "alarmstrings": [
+        "高温アラート 220℃",
+        "ウォームアップ完了 140℃",
+        "乾燥フェーズ 155℃",
+        "乾燥終了 160℃",
+        "一番割れ予告 180℃",
+        "一番割れ開始 193℃",
+        "焙煎時間20分超過℃"
+    ]
+} 

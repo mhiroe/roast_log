@@ -41,6 +41,8 @@ LargePhasesLCDs=false
 LargeScaleLCDs=false
 Mode=C
 NSQuitAlwaysKeepsWindows=false
+
+# フェーズ温度設定
 Phases=0, 150, 190, 230
 SegmentResultsLoc=0.5, 0.5
 Statistics=1, 1, 0, 1, 0, 0, 1
@@ -430,7 +432,7 @@ eventbuttontablecolumnwidths=70, 80, 100, 50, 150, 100, 80, 80, 80, 541
 extraeventbuttoncolor=#e14a5f, #e14a5f, #e14a5f, #e14a5f, #e14a5f, #e14a5f, #e14a5f, #e14a5f, #e14a5f, #5176f6, #5176f6, #4b53d9, #4b53d9
 extraeventbuttontextcolor=white, white, white, white, white, white, white, white, white, white, white, white, white
 extraeventsactions=0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
-extraeventsactionstrings=ガス2.0, ガス1.6, ガス1.4, , , , , , , , , , 
+extraeventsactionstrings=, , , , , , , , , , , , 
 extraeventsbuttonsflags=0, 1, 1
 extraeventsdescriptions=ガス2.0, ガス1.6, ガス1.4, ガス1.2, ガス1.0, ガス0.8, ガス 0.6, ガス 0.4, ガス 0.2, 排気2.5, 排気2.0, 排気 1.5, 排気 1.0
 extraeventslabels=ガス 2.0, ガス 1.6, ガス 1.4, ガス 1.2, ガス 1.0, ガス 0.8, ガス 0.6, ガス 0.4, ガス 0.2, 排気2.5, 排気2.0, 排気 1.5, 排気 1.0
