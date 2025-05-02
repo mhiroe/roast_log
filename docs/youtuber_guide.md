@@ -3,6 +3,9 @@
 参考URL
 https://www.youtube.com/watch?v=S8LPIbF9Rx4
 
+かなりしっかり設定している
+https://www.youtube.com/watch?v=AB6nMEaEIZU
+
 ## 1. グラフの軸設定
 ### 温度軸（左軸）の設定
 - メニュー → 構成 → グラフパーツを選択
